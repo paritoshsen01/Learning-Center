@@ -585,14 +585,19 @@ footer {
     margin: 8px 0;
   }
 
+  .navbar a {
+    font-size: 1.2rem;
+    padding: 10px 15px;
+  }
+
   .header-image {
-    width: 120px;
-    height: 120px;
+    width: 100px;
+    height: 100px;
   }
 
   .about-image {
     width: 100%;
-    max-width: 300px;
+    max-width: 250px;
   }
 
   .about-content p {
